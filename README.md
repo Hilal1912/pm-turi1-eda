@@ -2,7 +2,7 @@
 
 Mata Kuliah : Pembelajaran Mesin (INF62325)
 Nama        : Ibrahim Hilal
-NIM         : (Isi NIM Kamu)
+NIM         : 2488010030
 
 ## Ringkasan
 Praktikum persiapan awal pembelajaran mesin, meliputi verifikasi lingkungan kerja Google Colab, pengecekan versi pustaka Python utama, dan penyambungan repositori dengan GitHub.
